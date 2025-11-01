@@ -2,7 +2,6 @@
 """
 Created on Fri Jul  2 10:25:30 2021
 
-@author: Akhil
 """
 from textblob import TextBlob
 from advertools import knowledge_graph
