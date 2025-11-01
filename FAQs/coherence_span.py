@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun 21 13:20:31 2021
-
-@author: Akhil
 """
 
 import tensorflow_hub as hub
@@ -92,4 +90,5 @@ if __name__=="__main__":
     '''
     x=sent_tokenize(x)
     print(get_coherent_sentences(x))
+
         
